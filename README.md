@@ -18,13 +18,15 @@
 
 
 ## 工具包下载
-链接：
+链接：[https://pan.baidu.com/s/1vLkn_frNNSchwNFgi1_8sg](https://pan.baidu.com/s/1vLkn_frNNSchwNFgi1_8sg)
 
-提取码：
+提取码：go4y
 
 解压密码：AabyssTeam
 
 **注：工具箱里面有入侵和提权相关工具，杀软报毒属正常情况**
+
+**使用方式：将所有文件下载到同一个文件夹，打开 `渊龙Sec安全团队CTF&AWD工具包V4.0.zip` 解压即可**
 
 
 
@@ -95,6 +97,6 @@
 ## 致谢
 [drizzle888/CTFTools](https://github.com/drizzle888/CTFTools)
 
-[AabyssZG](https://github.com/AabyssZG)
+
 
 [AabyssTeam](https://github.com/Aabyss-Team)
